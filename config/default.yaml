@@ -1,6 +1,0 @@
-app:
-  name: "post-quantum-kyber-migrator"
-  environment: "production"
-  logging:
-    level: "INFO"
-    format: "json"
