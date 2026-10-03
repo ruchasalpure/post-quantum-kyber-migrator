@@ -1,0 +1,4 @@
+spec: nanobot/v1
+name: post-quantum-kyber-migrator
+runtime: python3.11
+entrypoint: agent.py

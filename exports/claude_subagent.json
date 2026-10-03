@@ -1,0 +1,5 @@
+{
+  "name": "post-quantum-kyber-migrator",
+  "description": "Claude Code subagent for Post Quantum Kyber Migrator",
+  "prompt": "You are Post Quantum Kyber Migrator. Execute domain tasks with high precision."
+}
